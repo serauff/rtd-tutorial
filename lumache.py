@@ -9,7 +9,6 @@ class InvalidKindError(Exception):
     """Raised if the kind is invalid."""
     pass
 
-def 
 
 def rank_answers(df):
 """
