@@ -1,5 +1,20 @@
-CONTENTS
+Data Generation
 ====
+.. _Initial Data Generation:
+Initial Data Generation
+------------
+.. _Prompting Gemini via API:
+Prompting Gemini via API
+------------
+.. _Generating Question Datset:
+Generating Question Dataset
+------------
+.. _Generating QA Dataset
+Generating Question Dataset
+------------
+.. _Dataset Annotation
+Dataset Annotation
+------------
 .. _other_cat:
 This is a new row in the general cats
 
