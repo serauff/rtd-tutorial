@@ -32,6 +32,13 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Ranking answers
+---------------
+To retrieve a list of random ingredients,
+you can use the ``lumache.rank_answers(df)`` function:
+
+.. autofunction:: lumache.rank_answers
+
 .. autosummary::
    :toctree: generated
 
