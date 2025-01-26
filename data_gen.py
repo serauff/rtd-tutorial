@@ -8,8 +8,8 @@ def rank_answers(df):
     """
     Ranks answers based on their scores for each row in a DataFrame and adds the ranked answers and scores as new columns.
 
-    :param kind: A pandas DataFrame containing columns for scores and answers. The score columns should have names containing the substring 'score_', and the answer columns should have names containing the substring 'answers_'.
-    :type kind: pandas.DataFrame
+    :param df: A pandas DataFrame containing columns for scores and answers. The score columns should have names containing the substring 'score_', and the answer columns should have names containing the substring 'answers_'.
+    :type df: pandas.DataFrame
     :return: A modified DataFrame with two new columns:
          - 'ranked_answer': The answer corresponding to the highest score for each row.
          - 'ranked_score': The highest score for each row.
