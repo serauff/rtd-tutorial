@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
+project = "ReadTheDocs of PDS Project"
 copyright = "2022, Read the Docs core team"
 author = "Read the Docs core team"
 
