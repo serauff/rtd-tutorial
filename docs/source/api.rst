@@ -6,3 +6,4 @@ API
 
    lumache
    data_gen
+   data_test
